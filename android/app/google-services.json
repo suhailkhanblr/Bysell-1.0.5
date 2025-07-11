@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "59419744409",
+    "project_id": "bysell-29fc6",
+    "storage_bucket": "bysell-29fc6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59419744409:android:25e0a9b935ce8f999f8008",
+        "android_client_info": {
+          "package_name": "com.slowbro.bysell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59419744409-1vf0189vtv91fasb3c3pim397tm0e1kd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slowbro.bysell",
+            "certificate_hash": "9b2c73a3e7a05df83096b0bf2be6afc81828d099"
+          }
+        },
+        {
+          "client_id": "59419744409-76nndnoa08c8ne2m739d57tni49tj3uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slowbro.bysell",
+            "certificate_hash": "770dd7ddb9ad9c5cdc007e56a59d22c878c3670e"
+          }
+        },
+        {
+          "client_id": "59419744409-kqthjjd9rs4l7su5jqhiat5j9p74cshd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slowbro.bysell",
+            "certificate_hash": "4339065c1083522025eec7c23b7dde13bce9e7d1"
+          }
+        },
+        {
+          "client_id": "59419744409-3f4j3q6lsu9ge29dccvhja2e0lufjqj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHsVo_lEkr1hHczd4-h9iebDDZIH2t0UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59419744409-3f4j3q6lsu9ge29dccvhja2e0lufjqj2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59419744409-o80c7islrnpsoqve8qi1d2gqllhj0sei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.slowbro.bysell"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
